@@ -39,5 +39,6 @@ Here we categorise, list and link to each syntax extension that has been propose
 Any proposals are XQuery specific, should be clearly marked as such with: "(**XQuery only**)"
 
 
+1. [Variadic Function Arguments](variadic-function-arguments.md)
 1. **TODO** link proposals here.
  
